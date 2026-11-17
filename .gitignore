@@ -41,3 +41,13 @@ app-example
 # generated native folders
 /ios
 /android
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated files
+node_modules/
+.expo/
+dist/

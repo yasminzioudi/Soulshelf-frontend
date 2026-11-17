@@ -1,0 +1,1 @@
+export { CurvedHeader } from './CurvedHeader';
